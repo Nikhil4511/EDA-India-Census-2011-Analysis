@@ -10,8 +10,11 @@ This project follows a traditional statistical approach, strengthened by modern 
 🎯 Objectives
 
 -Understand population distribution across Indian states and districts
+
 -Analyze literacy rate, gender ratio, and growth trends
+
 -Perform data cleaning and exploratory analysis
+
 -Present insights using tables and visualizations
 
 🧰 Tech Stack
